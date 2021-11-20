@@ -1,5 +1,5 @@
 const pc_sewa = (_minggu, __minggu, ___minggu, _bulan, _permanen, __permanen) => {
-return `「 *PRICE LIST* 」
+return `「 *PRICE LIST SEWA BOT* 」
 							
 ⬣ PRICE SEWABOT
 
