@@ -1,5 +1,5 @@
 const pc_sewa = (_minggu, __minggu, ___minggu, _bulan, _permanen, __permanen) => {
-return `「 *PRICE LIST* 」
+return `「 *PRICE LIST BY LAXY STORE* 」
 							
 ⬣ PRICE SEWABOT
 
@@ -13,11 +13,11 @@ return `「 *PRICE LIST* 」
 
 ⬣ PRICE JADIBOT
 
-⬡ JADI BOT PERMANEN 25K
+⬡ JADI BOT PERMANEN 5K
 
 
 ⬣ MINAT? PM
-⬡ wa.me/62887435047326
+⬡ wa.me/+6285893111373
 
 
 NOTE : 
